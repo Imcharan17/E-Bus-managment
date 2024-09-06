@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Registration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AddBus</h1>
+        <nav class="anchor">
+            <a class="home" href="index.html">Home</a>
+            <a class="login" href="login.html">Login</a>
+            <a class="register" href="register.html">Register</a>
+            <a href="bus_registration.html">AddBus</a>
+        </nav>
+    </header>
+    <form class="busRegistrationForm" id="busRegistrationForm">
+        <label class="email" for="busNumber">Bus Number:</label>
+        <input type="text" id="busNumber" name="busNumber" required>
+        <br>
+        <label class="email" for="source">Source:</label>
+        <input type="text" id="source" name="source" required>
+        <br>
+        <label class="email" for="destination">Destination:</label>
+        <input type="text" id="destination" name="destination" required>
+        <br>
+        <label class="email" for="location">Current Location:</label>
+        <input type="text" id="location" name="location" required>
+        <br>
+        <label class="email" for="time">Time:</label>
+        <input type="time" id="time" name="time" required>
+        <br>
+        <label class="email" for="type">Bus Type:</label>
+        <input type="text" id="type" name="type" required>
+        <br>
+        <div class="button1">
+        <button class="submit" type="submit">Register Bus</button>
+    </div>
+    </form>
+    <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-firestore.js"></script>
+    
+    <script type="module" src="bus_registration.js"></script>
+</body>
+</html>
