@@ -29,7 +29,12 @@ function registerUser(email, password) {
                 createdAt: new Date()
             }).then(() => {
                 console.log('User data stored in Firestore');
-                alert('Registration successful! User data stored in Firestore.');
+                
+                // Add a short delay before showing the alert
+                setTimeout(() => {
+                    alert('Registration successful! User data stored in Firestore.');
+                }, 500);
+                
             }).catch((error) => {
                 console.error('Error storing user data:', error.message);
                 alert('Registration successful, but an error occurred while storing user data.');
