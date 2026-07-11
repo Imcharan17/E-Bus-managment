@@ -1,359 +1,144 @@
-<div align="center">
+# 🚀 Featured Projects
 
-# 🚌 E-Bus Management System
+<table>
+<tr>
 
-### 🚀 A Real-Time Bus Management & Search Platform using Firebase
+<td width="50%">
 
-<p align="center">
+## 🚌 E-Bus Management System
+
+A real-time bus management platform with secure authentication and smart bus search.
+
+### 🚀 Tech Stack
+
+HTML • CSS • JavaScript • Firebase • Firestore
+
+### 🔥 Features
+
+✅ User Authentication
+
+✅ Bus Search
+
+✅ Firebase Database
+
+✅ Responsive Design
+
+<p>
 
 <a href="https://imcharan17.github.io/E-Bus-managment/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Imcharan17/E-Bus-managment">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
 </a>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
-</div>
+</td>
 
----
+<td width="50%">
 
-# 🌐 Live Demo
+## 🌾 CropCare Portal
 
-### 🚀 Visit the Project
+AI-powered crop disease detection and farmer support platform.
 
-👉 **https://imcharan17.github.io/E-Bus-managment/**
+### 🚀 Tech Stack
 
----
+Spring Boot • React • MySQL • JWT
 
-# 📖 Overview
+### 🔥 Features
 
-The **E-Bus Management System** is a web application designed to simplify bus transportation management. It allows users to register, log in securely, and search for buses based on their **source** and **destination**.
+✅ AI Disease Detection
 
-The application uses **Firebase Authentication** for secure user login and **Cloud Firestore** to store and retrieve bus information in real time.
+✅ Farmer Dashboard
 
----
+✅ JWT Authentication
 
-# ✨ Features
+✅ REST APIs
 
-### 🏠 Home Page
-- Beautiful landing page
-- Responsive design
-- Image slider showcasing buses
-- Navigation to Login & Register
+<p>
 
-### 🔐 Authentication
-- User Registration
-- Secure Login
-- Firebase Authentication
-- Session Management
+<a href="YOUR_DEPLOYMENT_LINK">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge"/>
+</a>
 
-### 🔍 Bus Search
-- Search buses by Source
-- Search buses by Destination
-- Display matching buses instantly
-- Real-time Firestore database queries
+<a href="https://github.com/Imcharan17/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
 
-### ✅ Validation
-- Client-side Form Validation
-- Required field validation
-- Error handling
+</p>
 
-### 🔥 Firebase Integration
-- Firebase Authentication
-- Cloud Firestore Database
-- Secure data management
+</td>
 
----
+</tr>
 
-# 🛠 Tech Stack
+<tr>
 
-## Frontend
+<td width="50%">
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+## 🤟 Sign Language Detection
 
-## Backend
+Real-time AI system that converts hand gestures into text and speech.
 
-- Firebase Authentication
-- Cloud Firestore
+### 🚀 Tech Stack
 
-## Tools
+Python • TensorFlow • OpenCV • MediaPipe
 
-- Git
-- GitHub
-- Firebase Console
+### 🔥 Features
 
----
+✅ Real-time Detection
 
-# 📂 Project Structure
+✅ Speech Output
 
-```
-E-Bus-Management/
+✅ A-Z Recognition
 
-│── index.html
-│── login.html
-│── register.html
-│── search.html
-│── bus_registration.html
-│
-├── css/
-│
-├── js/
-│   ├── app.js
-│   ├── login.js
-│   ├── register.js
-│   ├── search.js
-│
-├── images/
-│
-└── README.md
-```
+<p>
 
----
+<a href="YOUR_DEPLOYMENT_LINK">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge"/>
+</a>
 
-# 🚀 Installation
+<a href="https://github.com/Imcharan17/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
 
-## Clone Repository
+</p>
 
-```bash
-git clone https://github.com/Imcharan17/E-Bus-managment.git
-```
+</td>
 
----
+<td width="50%">
 
-## Navigate to Project
+## 💼 Personal Portfolio
 
-```bash
-cd E-Bus-managment
-```
+Modern developer portfolio showcasing projects, skills, and experience.
 
----
+### 🚀 Tech Stack
 
-## Open Project
+React • Vite • Tailwind CSS
 
-Simply open
+### 🔥 Features
 
-```
-index.html
-```
+✅ Responsive UI
 
-or use
+✅ Project Showcase
 
-**Live Server** in VS Code.
+✅ Contact Form
 
----
+<p>
 
-# 🔥 Firebase Configuration
+<a href="https://portfoilo-react-dun.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge"/>
+</a>
 
-## Step 1
+<a href="https://github.com/Imcharan17/Portfoilo-react">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
 
-Create a project on
+</p>
 
-👉 https://console.firebase.google.com/
+</td>
 
----
+</tr>
 
-## Step 2
-
-Enable
-
-- Authentication
-- Firestore Database
-
----
-
-## Step 3
-
-Replace Firebase configuration inside
-
-- app.js
-- login.js
-- register.js
-- search.js
-
-```javascript
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
-```
-
----
-
-# 🚍 How to Use
-
-### 1️⃣ Home Page
-
-- Explore the application
-- View image slider
-- Navigate to Login or Register
-
-### 2️⃣ Register
-
-- Create a new account
-- Email & Password authentication
-
-### 3️⃣ Login
-
-- Login securely using Firebase Authentication
-
-### 4️⃣ Search Bus
-
-- Enter Source
-- Enter Destination
-- View available buses instantly
-
----
-
-# 📸 Screenshots
-
-> Add screenshots here for a better project presentation.
-
-```
-📂 screenshots/
-
-home.png
-
-login.png
-
-register.png
-
-search.png
-
-results.png
-```
-
----
-
-# 📈 Future Enhancements
-
-- 🗺 Google Maps Live Bus Tracking
-- 💳 Online Ticket Booking
-- 📍 GPS Location Tracking
-- 📱 Mobile Responsive UI Improvements
-- 🎫 QR Code Ticket Generation
-- 🔔 Email & SMS Notifications
-- 💰 Online Payment Gateway
-- 👨‍💼 Admin Dashboard
-- 📊 Bus Analytics Dashboard
-
----
-
-# 🐞 Troubleshooting
-
-## Authentication Issues
-
-- Verify Firebase Authentication is enabled.
-- Check your Firebase configuration.
-
----
-
-## Firestore Issues
-
-- Ensure the **buses** collection exists.
-- Verify Firestore security rules.
-
----
-
-## Search Issues
-
-- Check that bus documents contain:
-
-```
-source
-
-destination
-
-busNumber
-
-busType
-
-time
-```
-
----
-
-## Image Slider Issues
-
-- Ensure all image paths are correct.
-- Verify JavaScript files are properly linked.
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-
-2. Create a branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push changes
-
-```bash
-git push origin feature-name
-```
-
-5. Create a Pull Request
-
----
-
-# 👨‍💻 Developer
-
-## Dubaguntla Charan Sai
-
-📧 **Email**
-
-dubaguntlacharan123@gmail.com
-
-🌐 **Portfolio**
-
-https://portfoilo-react-dun.vercel.app/
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/charan
-
-🐱 **GitHub**
-
-https://github.com/Imcharan17
-
-🚍 **Project Live**
-
-https://imcharan17.github.io/E-Bus-managment/
-
----
-
-<div align="center">
-
-## ⭐ If you found this project useful, don't forget to Star ⭐
-
-Made with ❤️ using HTML, CSS, JavaScript & Firebase
-
-</div>
+</table>
